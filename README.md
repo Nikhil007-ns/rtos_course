@@ -1,3 +1,2 @@
 # MasteringRTOS
-Running FreeRTOS on Arduino, STM32F4x and Cortex M based MCUs
-first change
+Running FreeRTOS on Arduino, STM32F4x and Cortex M based MCU
