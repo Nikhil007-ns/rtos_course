@@ -77,7 +77,6 @@ extern  void SEGGER_UART_init(uint32_t);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-int a;
 	TaskHandle_t task1_handle;
 	TaskHandle_t task2_handle;
 
